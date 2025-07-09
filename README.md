@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oweibhoi
 - 👀 I’m interested in Technology
-- 🌱 I’m currently learning Frontend development
+- 🌱 I’m currently learning React Native
 - 📫 How to reach me: email me @ oweibhoi20@gmail.com
 
 <!---
